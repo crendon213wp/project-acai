@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        
+        <loc>https://example.com/components.html</loc>
+    
+        
+        <lastmod>2026-08-21T05:21:36.496Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://example.com/documentation.html</loc>
+    
+        
+        <lastmod>2026-08-21T05:21:36.512Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://example.com/github.html</loc>
+    
+        
+        <lastmod>2026-08-21T05:21:36.520Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://example.com/</loc>
+    
+        
+        <lastmod>2026-08-21T05:21:36.543Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://example.com/utilities.html</loc>
+    
+        
+        <lastmod>2026-08-21T05:21:36.543Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+</urlset>

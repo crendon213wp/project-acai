@@ -1,0 +1,2 @@
+$(function(){const o=$("<button>",{class:"btn btn-dark position-fixed bottom-0 end-0 m-3 rounded-circle shadow",type:"button","aria-label":"Back to top",title:"Back to top",html:'<i class="fa-solid fa-arrow-up" aria-hidden="true"></i>'}).css({display:"none",zIndex:1030,width:"2.75rem",height:"2.75rem",padding:0}).appendTo("body");$(window).on("scroll",function(){$(window).scrollTop()>400?o.stop(!0,!0).fadeIn(180):o.stop(!0,!0).fadeOut(180)}),o.on("click",function(){$("html, body").stop(!0).animate({scrollTop:0},400)})});
+//# sourceMappingURL=app.js.map

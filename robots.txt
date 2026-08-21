@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Partials are source fragments and are not public page entry points.
+Disallow: /partials/
+
+# Replace example.com in site.config.js before deployment.
+Sitemap: https://example.com/sitemap.xml
