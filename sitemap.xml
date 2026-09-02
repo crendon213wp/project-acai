@@ -2,24 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         
-        <loc>https://example.com/components.html</loc>
+        <loc>https://crendon213wp.github.io/project-acai/components.html</loc>
     
         
-        <lastmod>2026-09-02T20:20:17.492Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>1</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://example.com/documentation.html</loc>
-    
-        
-        <lastmod>2026-09-02T20:20:17.525Z</lastmod>
+        <lastmod>2026-09-02T20:31:56.017Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -30,24 +16,10 @@
     </url>
     <url>
         
-        <loc>https://example.com/github.html</loc>
+        <loc>https://crendon213wp.github.io/project-acai/documentation.html</loc>
     
         
-        <lastmod>2026-09-02T20:20:17.578Z</lastmod>
-    
-        
-        <changefreq>weekly</changefreq>
-    
-        
-        <priority>1</priority>
-    
-    </url>
-    <url>
-        
-        <loc>https://example.com/</loc>
-    
-        
-        <lastmod>2026-09-02T20:20:17.608Z</lastmod>
+        <lastmod>2026-09-02T20:31:56.087Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
@@ -58,10 +30,38 @@
     </url>
     <url>
         
-        <loc>https://example.com/utilities.html</loc>
+        <loc>https://crendon213wp.github.io/project-acai/github.html</loc>
     
         
-        <lastmod>2026-09-02T20:20:17.610Z</lastmod>
+        <lastmod>2026-09-02T20:31:56.144Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://crendon213wp.github.io/project-acai/</loc>
+    
+        
+        <lastmod>2026-09-02T20:31:56.197Z</lastmod>
+    
+        
+        <changefreq>weekly</changefreq>
+    
+        
+        <priority>1</priority>
+    
+    </url>
+    <url>
+        
+        <loc>https://crendon213wp.github.io/project-acai/utilities.html</loc>
+    
+        
+        <lastmod>2026-09-02T20:31:56.199Z</lastmod>
     
         
         <changefreq>weekly</changefreq>
